@@ -1,0 +1,12 @@
+
+{
+  "vehicle_count": 10,
+  "pedestrian_count": 2,
+  "risk_events": [
+    {
+      "timestamp": 12.5,
+      "event_type": "front_vehicle_risk",
+      "risk_score": 0.82
+    }
+  ]
+}

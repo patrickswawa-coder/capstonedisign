@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Runtime data (created automatically by backend/main.py)
+backend/uploads/
+backend/results/
+backend/sensor_uploads/
+backend/sensor_results/
+backend/fusion_results/
+backend/score_results/
+backend/coaching_results/
+
+# Media / env
+*.mp4
+*.avi
+*.mov
+.env
+.DS_Store
+Thumbs.db
